@@ -1,2 +1,3 @@
 # Beer-Coin-AI-agent-pump-fun
-https://raw.githubusercontent.com/pump-fun/pump-fun-skills/refs/heads/main/tokenized-agents/SKILL.md
+
+https://raw.githubusercontent.com/danielpatton062-beep/Beer-Coin-AI-agent-pump-fun/main/SKILL.md
